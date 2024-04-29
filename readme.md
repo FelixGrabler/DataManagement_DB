@@ -17,7 +17,7 @@ Host name/address: postgres
 Port: 5432
 Maintenance database: postgres
 Username: postgres
-Password: password
+Password: postgres
 ```
 
 1. Create a new database called `db123___`
